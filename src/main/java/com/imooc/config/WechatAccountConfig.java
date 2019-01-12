@@ -8,6 +8,8 @@ import java.util.Map;
 
 /**
  * Created by SqMax on 2018/3/23.
+ *
+ * 微信账号相关配置
  */
 @Data
 @Component
